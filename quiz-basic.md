@@ -39,7 +39,7 @@
 
 例如：
 
-> Youtube 的几个频道: Fireship、Traversy Media、DesignCourse …
-> 掘金、知乎
+> - Youtube 的几个频道: Fireship、Traversy Media、DesignCourse …
+> - 掘金、知乎
 
 答：
