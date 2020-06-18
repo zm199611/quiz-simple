@@ -1,8 +1,12 @@
 # 代码编辑器的使用
 
+在实际开发过程中，我们使用代码编辑器编写代码，  
+有时会碰到需要调整大量代码的情况。  
+现代编辑器通常内置了很多功能和特性，能帮助我们提高工作效率。
+
 将下面所有以 am、em、im、om、um 结尾的单词，替换为 DEADBEAF。
 
-请直接修改并保存本文件。
+（直接修改并保存本文件即可）
 
 Maxime facere magni esse enim ipsa suscipit optio deserunt nobis a vel voluptate
 necessitatibus placeat, facilis molestiae inventore ex illo explicabo, aperiam
