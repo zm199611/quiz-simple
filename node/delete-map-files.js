@@ -9,7 +9,7 @@ const deleteMapFiles = (p) => {
 
 // * ------------------------------------------------
 
-// * playground 文件夹的目录结构如下：
+// * playground 文件夹目前的目录结构如下：
 
 /*
 playground
@@ -23,8 +23,8 @@ playground
     └── style.css.map
 */
 
-// * 调用 deleteMapFiles('./playground') 后
-// * 删除所有 map 文件，最终结构如下：
+// * 调用 deleteMapFiles('./playground') ，将删除所有 map 文件
+// * 然后文件结构应该如下：
 
 /*
 playground

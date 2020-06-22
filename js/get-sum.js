@@ -1,8 +1,8 @@
 /**
  * @description 求范围内（开区间） 3 的倍数的数字之和
  * @param {number[]} arr 排序或乱序的数组
- * @param {number} start 比他大
- * @param {number} end 结束
+ * @param {number} start 开始范围
+ * @param {number} end 结束范围
  * @returns {number} 返回和
  */
 const getSumOfTriple = (arr, start, end) => {
