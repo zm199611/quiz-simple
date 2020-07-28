@@ -19,6 +19,7 @@
 | yarn           | 是 ……                |
 | React          | 是 ……                |
 | Vue            | 是 ……                |
+| Flux           | 是 ……                |
 | Mobx           | 是 ……                |
 | MVVM           | 是 ……                |
 | TDD            | 是 ……                |
@@ -26,6 +27,7 @@
 | node_modules   | 是 ……                |
 | package.json   | 是 ……                |
 | ECMAScript     | 是 ……                |
+| Electron       | 是 ……                |
 | Babel          | 是 ……                |
 | Webpack        | 是 ……                |
 | SSR            | 是 ……                |
