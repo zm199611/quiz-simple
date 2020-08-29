@@ -20,6 +20,15 @@
   const mirrorData = clone(data);
 
   mirrorData.person[0].age = 19;
+  function clone(source){
+    let target = {};
+    for(let i in source){
+      if(source.hasOwnProperty(i)){
+        target[i] = source[i]
+      }
+    }
+      return target
+  }
 
   console.log(mirrorData.person[0].age === 19);
   console.log(data.person[0].age === 24);
