@@ -2,12 +2,12 @@
 // * 给下这段的代码加上 TypeScript 类型声明，以便更好地使用数据。
 
 // * ---------------- 请补充……
-interface IUser{
+interface MyObj{
     name: string;
-    age: number;
+    id: string;
 }
-type IUserInfoFunc = (user:IUser) => string;
-const getData:IUserInfoFunc = async (user)=>
+type MyObjInfoFunc = (user:MyObj) => string;
+const getData:MyObjInfoFunc = async (user)=>
   await fetch('https://jsonplaceholder.typicode.com/todos/').then((response) => response.json());
 
 getData().then((e) => console.log(e));
