@@ -29,6 +29,14 @@ Demo 代码可以新建一个或多个文件（不限），
   flex-grow: 1;
 }
 ```
+```css
+.container{
+  dispaly:flex;
+  flex-direction:no-wrap;
+  justify-content:center;
+  flex:1 0 auto;   
+  }
+```
 
 ## Q2
 
@@ -44,4 +52,4 @@ Demo 代码可以新建一个或多个文件（不限），
 > }
 > ```
 
-答：
+答：1.自适应，根据窗口大小改变而改变；2.百分比；蓝湖；3.rem等比关系，使用px2rem插件可以实现px->rem 4.media query媒体查询  5.vw/vh 6.vue/react+vw  7. js之中使用babel  8. 工作流之中使用webpack 使用css-loader stylus-loader css编译
